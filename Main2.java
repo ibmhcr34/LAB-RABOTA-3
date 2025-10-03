@@ -1,3 +1,6 @@
+#ЛАБ. РАБОТА 3 РЕШЕШИЕ НА Java ЗАДАЧА 2
+
+    
 public class HeapSort {
 
     public void heapSort(int[] arr) {
