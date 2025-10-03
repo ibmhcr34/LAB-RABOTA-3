@@ -85,7 +85,7 @@ public class MinHeap {
         heap.insert(8);
         heap.insert(1);
 
-        heap.printHeap();  // пример вывода
+        heap.printHeap(); 
 
         System.out.println("Extract min: " + heap.extractMin());
         heap.printHeap();
